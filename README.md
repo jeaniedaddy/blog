@@ -1,3 +1,16 @@
+## Note
+
+### redux: 
+The redux libarary
+### react-redux: 
+Integration layer between react and redux
+### axios: 
+Helps us make network requests
+#### redux-thunk: 
+Middleware to help us make requests in a redux application
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
